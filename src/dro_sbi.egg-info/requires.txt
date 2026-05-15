@@ -1,0 +1,8 @@
+bayesflow==2.0.8
+ipykernel>=7.2.0
+pyyaml>=6.0.3
+jax>=0.5.3
+scikit-learn>=1.8.0
+torchsort>=0.1.10
+distrax>=0.1.7
+bayesian-optimization>=3.2.1
