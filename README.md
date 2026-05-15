@@ -5,9 +5,13 @@
 
 ## Demonstration
 
+See **[demonstration.ipynb](demonstration.ipynb)**
+
 ## Running experiments
 
 ### Run experiment with our method
+uv run experiments/train.py --simulator lv --method dro_ub  --epsilon 1.0 --n 1024
+
 
 ``uv run experiments/train.py --simulator lv --method dro_ub  --epsilon 1.0 --n 1024``
 
